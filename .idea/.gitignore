@@ -1,0 +1,24 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# IDE files
+.idea/
+*.iml
+*.vscode/
+
+# Compiled files
+target/
+build/
+out/
+
+# Logs
+*.log
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Application properties with sensitive data
+src/main/resources/application-local.properties
